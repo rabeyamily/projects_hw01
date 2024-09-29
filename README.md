@@ -29,10 +29,10 @@ Before running this application, we must obtain API keys for WeatherStack and Ti
 ## Usage
 1. Run this: python weather_event_recommender.py
 2. When prompted, enter the name of a city.
-3. The application will display the current weather and a list of recommended events for the next 7 days.
+3. The application will display the current weather and a list of recommended events for the next 7 days (up to 5 events).
 
 ## Example Output
-
+![Alt text](https://github.com/rabeyamily/projects_hw01/blob/main/461499382_1641872349701805_7880822590855339719_n.png)
 ## Error Handling
 1. Invalid city names
 2. API request failures
